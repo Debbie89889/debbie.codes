@@ -22,26 +22,26 @@ h2 {
 
 <div class="box">
 
-🌸 歡迎來到我的 LeetCode 筆記倉庫！  
-這裡記錄著我學習程式 & 資料結構的過程 💻  
-我喜歡寫解題筆記 🧠、Python 小技巧 🐍、與考試準備經驗 ✨  
-如果你也正在學演算法，我們一起加油 💪！
+🌸 歡迎來到我的 LeetCode 筆記倉庫！<br>
+這裡記錄我學習程式 & 資料結構的旅程 💻<br>
+我喜歡寫解題筆記 🧠、整理 Python 小技巧 🐍、分享考試經驗 ✍️<br>
+如果你也在學演算法，我們一起加油 💪！
 
 </div>
 
 <div class="box">
 
-📝 <strong>最新筆記</strong>  
-我會每週更新 LeetCode 題目 ✍️  
+📝 <strong>最新筆記</strong><br>
+我會每週更新 LeetCode 題目 ✍️<br>
 目前正在整理主題：Array、HashMap、DP、字串處理...
 
 </div>
 
 <div class="box">
 
-🐾 <strong>小提醒</strong>  
-📌 點選藍色標題可以進入文章頁面  
-🔖 我的筆記網站網址：  
-👉 [https://debbie89889.github.io/debbie.codes](https://debbie89889.github.io/debbie.codes)
+🐾 <strong>小提醒</strong><br>
+📌 點選藍色標題可以進入文章頁面<br>
+🔖 我的筆記網址：<br>
+👉 <a href="https://debbie89889.github.io/debbie.codes" target="_blank">https://debbie89889.github.io/debbie.codes</a>
 
 </div>
