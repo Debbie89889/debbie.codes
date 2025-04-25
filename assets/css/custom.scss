@@ -1,0 +1,32 @@
+/* assets/css/custom.scss */
+body {
+  background-color: #FFF9F3;
+  color: #4B4B4B;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2, h3 {
+  color: #6C584C;
+}
+
+a {
+  color: #6C584C;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #C4A69F;
+}
+
+.site-header, .site-footer {
+  background-color: #FFF5E1;
+  border-top: 1px solid #D9C8B4;
+  border-bottom: 1px solid #D9C8B4;
+}
+
+code {
+  background-color: #F8F1E7;
+  color: #A47551;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
