@@ -4,47 +4,44 @@ title: 資管女子的程式筆記本
 ---
 
 <style>
-h1, h2, h3 {
+h1, h2 {
   text-align: center;
 }
-section {
-  padding: 1.5em;
-  background-color: #fff6fb;
-  border: 1px dashed #ffb6c1;
+.box {
+  background: #fff0f6;
+  border: 1px dashed #ffa4c4;
   border-radius: 12px;
-  margin-bottom: 2em;
+  padding: 1.5em;
+  margin: 1.5em 0;
+  line-height: 1.9;
 }
 </style>
 
 # 🎀 資管女子的程式筆記本
 
-<section>
+<div class="box">
 
-💗 歡迎來到我的 LeetCode 筆記倉庫！  
-這裡記錄著我學習程式 & 資料結構的旅程 ✨
+🌸 歡迎來到我的 LeetCode 筆記倉庫！這裡記錄我學習程式 & 資料結構的點滴 💻  
+🧠 我喜歡寫解題筆記、分享 Python 小技巧，也會整理出考試與面試的準備方向！
 
-我會整理刷題筆記 🧠、Python 小技巧 🐍、解題心得 ✍️  
-如果你也在學演算法，一起努力吧 💪！
+✨ 如果你也正在學習演算法，那我們一起加油吧 💪！
 
-</section>
+</div>
 
-<section>
+<div class="box">
 
-## 📝 最新筆記
+## 📝 最新筆記  
+📚 我會每週更新 LeetCode 題目筆記 ✍️  
+目前正在整理：Array、HashMap、DP、字串處理...
 
-下方是我最近更新的 LeetCode 題目筆記：  
-👉 每週更新！可收藏網站常看 ✨
+</div>
 
-</section>
+<div class="box">
 
-<section>
+## 🐾 小提醒  
 
-## 🐾 小提醒
+📌 點選「藍色標題」可以進入詳細文章  
+🔖 收藏我的網站連結：  
+👉 [https://debbie89889.github.io/debbie.codes](https://debbie89889.github.io/debbie.codes)
 
-- 點選標題可以進入文章頁面 🗂️  
-- 我的部落格網址：<br>
-  🔗 [https://debbie89889.github.io/debbie.codes](https://debbie89889.github.io/debbie.codes)
-
-</section>
-
-
+</div>
