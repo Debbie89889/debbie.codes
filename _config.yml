@@ -1,6 +1,6 @@
 title: Debbie.codes
 description: LeetCode 刷題筆記 & Python 學習記錄
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 
 author: Debbie Li
 show_excerpts: true
@@ -8,7 +8,7 @@ paginate: 5
 
 
 plugins:
-  - jekyll-theme-time-machine
+  - jekyll-theme-cayman
 
 
 sass:
