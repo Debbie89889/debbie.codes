@@ -4,15 +4,11 @@ title: 資管女子的程式筆記本
 ---
 
 <style>
-body {
-  background-color: #fefae0;
-  font-family: 'Noto Sans TC', sans-serif;
-  color: #3c3c3c;
+body, .inner {
+  background-color: #fefae0 !important;
 }
 
 h2 {
-  margin-top: 1.5em;
-  text-align: center;
   color: #d17777;
 }
 
