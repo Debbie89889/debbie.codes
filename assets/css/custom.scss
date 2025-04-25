@@ -1,9 +1,9 @@
-/* 奶油底色 + 日系柔色系調整 */
-
+/* 奶油底色＋日系柔色調整 */
 body {
   background-color: #fffaf3 !important;
   font-family: "Noto Sans TC", sans-serif;
   color: #5c504d;
+  line-height: 1.8;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header, footer, .page-header, .site-footer {
-  background-color: #fff1e6 !important;
+  background-color: #fff6e6 !important;
   color: #5c504d;
   border: none;
   box-shadow: none;
@@ -32,6 +32,17 @@ blockquote {
   border-left: 4px solid #ffc9b9;
   padding: 1rem;
   margin: 1.5rem 0;
+  font-style: italic;
+  color: #5c504d;
+}
+
+code, pre {
+  background-color: #f5f2e7;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 90%;
+  color: #874f4f;
 }
 
 .highlight {
