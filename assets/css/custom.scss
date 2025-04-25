@@ -1,32 +1,39 @@
-/* assets/css/custom.scss */
+/* 奶油底色 + 日系柔色系調整 */
+
 body {
-  background-color: #FFF9F3;
-  color: #4B4B4B;
-  font-family: 'Noto Sans TC', sans-serif;
+  background-color: #fffaf3 !important;
+  font-family: "Noto Sans TC", sans-serif;
+  color: #5c504d;
 }
 
-h1, h2, h3 {
-  color: #6C584C;
+h1, h2, h3, h4, h5, h6 {
+  color: #d17a69;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+header, footer, .page-header, .site-footer {
+  background-color: #fff1e6 !important;
+  color: #5c504d;
+  border: none;
+  box-shadow: none;
 }
 
 a {
-  color: #6C584C;
-  text-decoration: none;
+  color: #9e6b5a;
 }
 
 a:hover {
-  color: #C4A69F;
+  color: #d17a69;
+  text-decoration: underline;
 }
 
-.site-header, .site-footer {
-  background-color: #FFF5E1;
-  border-top: 1px solid #D9C8B4;
-  border-bottom: 1px solid #D9C8B4;
+blockquote {
+  background-color: #fff5ec;
+  border-left: 4px solid #ffc9b9;
+  padding: 1rem;
+  margin: 1.5rem 0;
 }
 
-code {
-  background-color: #F8F1E7;
-  color: #A47551;
-  padding: 0.2em 0.4em;
-  border-radius: 4px;
+.highlight {
+  background-color: #fff0e1;
 }
