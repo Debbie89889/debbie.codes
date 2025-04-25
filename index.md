@@ -1,11 +1,9 @@
 ---
 layout: home
-title: 資管女子的程式筆記本
+title: 🎀 資管女子的程式筆記本
 ---
 
 <div align="center">
-
-# 🎀 資管女子的程式筆記本
 
 📒 歡迎來到我的 LeetCode 筆記部落格！  
 這裡是我學習程式與資料結構的紀錄空間 ✨
