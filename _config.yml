@@ -1,3 +1,9 @@
 title: 資管女子的程式筆記本
 description: LeetCode 刷題紀錄與學習筆記 📚
 theme: minima
+
+author:
+  name: Debbie Li
+
+show_excerpts: true
+paginate: 5
