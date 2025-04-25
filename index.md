@@ -4,17 +4,28 @@ title: 資管女子的程式筆記本
 ---
 
 <style>
+body {
+  background-color: #fefae0;
+  font-family: 'Noto Sans TC', sans-serif;
+  color: #3c3c3c;
+}
+
 h2 {
   margin-top: 1.5em;
   text-align: center;
+  color: #d17777;
 }
+
 .box {
-  background: #fff0f6;
-  border: 1px dashed #ffa4c4;
+  background: #fff7ed;
+  border: 1px dashed #f4c4a4;
   border-radius: 12px;
   padding: 1.5em;
-  margin: 1.5em 0;
+  margin: 1.5em auto;
   line-height: 1.8;
+  width: 90%;
+  max-width: 720px;
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
 }
 </style>
 
