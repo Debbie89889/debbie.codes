@@ -52,3 +52,17 @@ h2 {
 👉 <a href="https://debbie89889.github.io/debbie.codes" target="_blank">https://debbie89889.github.io/debbie.codes</a>
 
 </div>
+
+---
+
+## 📝 最近筆記列表
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date: "%Y-%m-%d" }}</span> —
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
